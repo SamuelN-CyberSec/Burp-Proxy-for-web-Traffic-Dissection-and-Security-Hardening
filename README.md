@@ -8,8 +8,8 @@ This Project Utilized *Burp Proxy on windows machine to dissect and manipulate w
 #Key Tool 
 -Burp Proxy 
 -Intercepting HTTP/HTTPS traffic 
--Analyzing for web vulnerability .../,<script>, SQL Syntax, warning etc
--Modifying Request and response for Testing 
+-Analyzing for web vulnerability .../,<script>, SQL syntax, warning etc
+-Modifying request and response for Testing 
 
 ## Usage 
 1.Started Burp Suite on  windows  machine
